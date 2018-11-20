@@ -8,18 +8,23 @@ The app uses Express/NodeJs with MongoDB in the backend with reactJs in the fron
 So to run the BackEnd (There must be mongodb database mongodb://127.0.0.1:27017): 
 
 > cd WeatherApp
+
 > npm install
+
 > npm start
 
 --> To Add data 
 
 > npm install pow-mongodb-fixtures -g
+
 > mongofixtures weather server/data.js
 
 To run the front end
 
 > cd client
+
 > npm install
+
 > npm start
 
 
