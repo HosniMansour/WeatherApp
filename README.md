@@ -21,7 +21,7 @@ So to run the BackEnd (There must be mongodb database mongodb://127.0.0.1:27017)
 
 To run the front end
 
-> cd client
+> cd client-app
 
 > npm install
 
@@ -29,3 +29,16 @@ To run the front end
 
 
 I did waste some time with symfony at first, later with react and node I took my time using redux, bootstrap .. so yep I couldn't finish everything in time I still have the details page and the add fucnction have a bug in the beck end even it's implimented in the frontend 
+
+-------------------
+
+Example data : 
+
+email: email1@email.com
+password: 123456
+
+email: email2@email.com
+password: 123456
+
+email: email3@email.com
+password: 123456
