@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/client/src/components/dashboard/menu/Menu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/dashboard/onweather.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/reducers/WeatherReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" />
@@ -29,7 +30,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="onweather.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="onweather.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/onweather.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
@@ -37,6 +38,15 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ENV.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/ENV.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -1634,12 +1644,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542716346136</updated>
-      <workItem from="1542716347253" duration="14712000" />
+      <workItem from="1542716347253" duration="15295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14712000" />
+    <option name="totallyTimeSpent" value="15295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1360" height="769" extended-state="6" />
@@ -1707,13 +1717,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/ENV.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1901,6 +1904,13 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/ENV.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>
