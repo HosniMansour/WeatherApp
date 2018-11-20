@@ -11,7 +11,7 @@ So to run the BackEnd (There must be mongodb database mongodb://127.0.0.1:27017)
 
 > npm install
 
-> npm start
+> npm run server-dev
 
 --> To Add data 
 
