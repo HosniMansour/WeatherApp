@@ -30,7 +30,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="onweather.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="onweather.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/onweather.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
@@ -38,15 +38,6 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ENV.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/ENV.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -1484,7 +1475,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1920" />
     <option name="y" value="-1" />
     <option name="width" value="1360" />
@@ -1644,15 +1635,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542716346136</updated>
-      <workItem from="1542716347253" duration="15295000" />
+      <workItem from="1542716347253" duration="15851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15295000" />
+    <option name="totallyTimeSpent" value="15851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-1" width="1360" height="769" extended-state="6" />
+    <frame x="1920" y="-1" width="1360" height="769" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27823484" />
@@ -1897,6 +1888,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/ENV.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/onweather.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1904,13 +1902,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/ENV.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>
